@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prathyush A Security Researcher and Developer from India</h1>
+<h1 align="center">I'm Prathyush A Security Researcher and Developer from India</h1>
 <h3 align="center">👨‍💻 Hack. Build. Secure. 👨‍💻</h3>
 
 <h3 align="left">Connect with me:</h3>
