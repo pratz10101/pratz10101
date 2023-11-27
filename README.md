@@ -1,6 +1,3 @@
-rahul
-
-
 <h1 align="center">Hi 👋, I'm Prathyush A Security Researcher and Developer from India</h1>
 <h3 align="center">👨‍💻 Hack. Build. Secure. 👨‍💻</h3>
 
