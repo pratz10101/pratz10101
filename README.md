@@ -2,7 +2,7 @@
 🔭 I'm currently working on ethical hacking practices.<br>👯 I'm looking to collaborate on open-source cybersecurity projects or participate in virtual Capture The Flag (CTF) competitions to sharpen my skills.<br>🤝 I'm looking for help with staying updated on the latest cybersecurity trends, tools, and vulnerabilities.<br>🌱 I'm currently learning network security, and encryption protocols to build a comprehensive skill set in cybersecurity.<br>💭 Ask me about my favorite cybersecurity tools or tips for securing digital assets.<br>⚡ Fun fact The term "hacking" originally had a positive connotation and referred to the act of tinkering with technology to make it work better or differently. It only later evolved to include malicious activities.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathyush-v/) 
 
 # 💻 Tech Stack:
